@@ -1,0 +1,14 @@
+C:\Users\fsghe\Documents\FitoDesktop\FitoCensusDskOld\obj\Debug\FitoCensusDskOld.csproj.AssemblyReference.cache
+C:\Users\fsghe\Documents\FitoDesktop\FitoCensusDskOld\obj\Debug\FitoCensusDskOld.csproj.SuggestedBindingRedirects.cache
+C:\Users\fsghe\Documents\FitoDesktop\FitoCensusDskOld\obj\Debug\FitoCensusDsk.Form1.resources
+C:\Users\fsghe\Documents\FitoDesktop\FitoCensusDskOld\obj\Debug\FitoCensusDsk.Properties.Resources.resources
+C:\Users\fsghe\Documents\FitoDesktop\FitoCensusDskOld\obj\Debug\FitoCensusDskOld.csproj.GenerateResource.cache
+C:\Users\fsghe\Documents\FitoDesktop\FitoCensusDskOld\obj\Debug\FitoCensusDskOld.csproj.CoreCompileInputs.cache
+C:\Users\fsghe\Documents\FitoDesktop\FitoCensusDskOld\bin\Debug\FitoCensusDsk.exe
+C:\Users\fsghe\Documents\FitoDesktop\FitoCensusDskOld\bin\Debug\FitoCensusDsk.pdb
+C:\Users\fsghe\Documents\FitoDesktop\FitoCensusDskOld\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\fsghe\Documents\FitoDesktop\FitoCensusDskOld\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fsghe\Documents\FitoDesktop\FitoCensusDskOld\bin\Debug\SQLite-net.dll
+C:\Users\fsghe\Documents\FitoDesktop\FitoCensusDskOld\obj\Debug\FitoCensusDskOld.csproj.CopyComplete
+C:\Users\fsghe\Documents\FitoDesktop\FitoCensusDskOld\obj\Debug\FitoCensusDsk.exe
+C:\Users\fsghe\Documents\FitoDesktop\FitoCensusDskOld\obj\Debug\FitoCensusDsk.pdb
